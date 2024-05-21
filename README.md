@@ -20,7 +20,7 @@
 - **Frontend**
   
     Step 1: cd client <br>
-    Step 2: npm i<br>
+    Step 2: npm install<br>
     Step 3: npm start<br>
 
 - **Backend**
@@ -29,4 +29,5 @@
     /dbConnect.js
   
     Step 1: cd server<br>
+    Step 2: npm install<br>
     Step 3: npm start
